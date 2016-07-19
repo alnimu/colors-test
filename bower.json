@@ -1,0 +1,11 @@
+{
+  "name": "colors",
+  "version": "1.0",
+  "dependencies": {
+    "jquery": "latest",
+    "bootstrap": "latest",
+    "angular": "latest",
+    "angular-bootstrap": "latest"
+  },
+  "private": true
+}
